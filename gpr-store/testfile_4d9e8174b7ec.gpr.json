@@ -1,0 +1,18 @@
+{
+  "@context": "https://authenticmemory.org/schema/v1",
+  "type": "gami-proof",
+  "schema": "v1",
+  "id": "urn:uuid:8d33ae83-5daf-46c0-b951-99b21c4fe995",
+  "subject": {
+    "file_hash": "sha256:4d9e8174b7eccd69f13127c1ef74f383a111d9722b15f7b6148bc83c51c6a40f",
+    "filename": "testfile.txt",
+    "metadata": {
+      "language": "en"
+    }
+  },
+  "proof": {
+    "created": "2026-04-12T14:44:50Z",
+    "key_id": "did:web:localhost#key-1"
+  },
+  "parent": null
+}

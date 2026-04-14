@@ -1,0 +1,28 @@
+{
+  "@context": "https://authenticmemory.org/schema/v1",
+  "type": "gami-proof",
+  "schema": "v1",
+  "id": "urn:uuid:08e479ed-b9b0-402e-baf9-8ac66ed2ce52",
+  "subject": {
+    "filename": "did.json",
+    "file_hash": "sha256:77548a9cf86706505b1a4f802c5ff6f9edb831ca0fd0b05f54161ce8c414e468",
+    "metadata": {
+      "language": "en"
+    }
+  },
+  "proof": {
+    "created": "2026-04-12T14:45:12Z",
+    "key_id": "did:web:localhost#key-1",
+    "public_key_hex": "b4768af31ca0662f2711a4a5827d9bafabcb903917acbcb4d0a54e62d7ae4a12",
+    "signature": "ed25519:77b43423a705592432f1646341ab0bc5f8f69cd72929d8169d7a5a95ac9964a2da76304ead8f9048dedb7b30a3db3e572bcfd086edb3a0bebc5bf69fb971c702",
+    "timestamp": {
+      "type": "OpenTimestamps",
+      "document_hash": "sha256:29428f29940361650dc6ff62f7a658f54789594f5e579f1df2f17579ca1286ad",
+      "calendar": "https://alice.btc.calendar.opentimestamps.org",
+      "submitted_at": "2026-04-13T00:02:24Z",
+      "ots_data": "8AhmmeduQAe8WAjwIPHYhhJzCraRne3REL8bLlFVobikAaPWGRWtpwORzI14CPAQVnZpogwaMn7DXfJBMfDqFQjxILBwG6B5QqiMe9FRA5U7NYxSlGTuwKPorERZRL/oYJLRCPAg4rQR4GE8UEeR/Ub+XO6VQhhesAp7ov7nyfVT7Tx8IjsI8QRp3DKQ8Ajv7diuqurJMQCD3+MNLvkMji4taHR0cHM6Ly9hbGljZS5idGMuY2FsZW5kYXIub3BlbnRpbWVzdGFtcHMub3Jn",
+      "upgraded": false
+    }
+  },
+  "parent": null
+}
