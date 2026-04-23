@@ -1,18 +1,28 @@
 {
-  "@context": "https://authenticmemory.org/schema/v1",
+  "@context": "https://github.com/progressiv0/gami/schema/v1",
   "type": "gami-proof",
   "schema": "v1",
   "id": "urn:uuid:8d33ae83-5daf-46c0-b951-99b21c4fe995",
   "subject": {
-    "file_hash": "sha256:4d9e8174b7eccd69f13127c1ef74f383a111d9722b15f7b6148bc83c51c6a40f",
     "filename": "testfile.txt",
+    "file_hash": "sha256:4d9e8174b7eccd69f13127c1ef74f383a111d9722b15f7b6148bc83c51c6a40f",
     "metadata": {
       "language": "en"
     }
   },
   "proof": {
     "created": "2026-04-12T14:44:50Z",
-    "key_id": "did:web:localhost#key-1"
+    "key_id": "did:web:localhost#key-1",
+    "public_key_hex": "b4768af31ca0662f2711a4a5827d9bafabcb903917acbcb4d0a54e62d7ae4a12",
+    "signature": "ed25519:9187eae37a3b3c7c5c314146e1483e905a9783f3ae8d63389edd08a5f3a4c6685a68664c6fa5920d9e691aa81cba48656950a7203ac61e07c6195ad7e3931203",
+    "timestamp": {
+      "type": "OpenTimestamps",
+      "document_hash": "sha256:30859fa6f96bfb5fbbf7543d7c2f4d22763a23d88ec9d80863efb44146e3530b",
+      "calendar": "https://alice.btc.calendar.opentimestamps.org",
+      "submitted_at": "2026-04-14T14:23:10Z",
+      "ots_data": "8AjBXcgThrqzEAjwEP/22zXbkwbdtYb9lECO3oEI8SD/t2EFaI4dfaHIV27sBIPd6y97PYS4vC7tN30ETHSTSAjxBGneTc7wCMwWIFGwDokFAIPf4w0u+QyOLi1odHRwczovL2FsaWNlLmJ0Yy5jYWxlbmRhci5vcGVudGltZXN0YW1wcy5vcmc=",
+      "upgraded": false
+    }
   },
   "parent": null
 }

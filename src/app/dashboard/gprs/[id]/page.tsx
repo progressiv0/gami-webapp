@@ -10,6 +10,7 @@ import {
 } from "lucide-react";
 import Link from "next/link";
 import { use, useEffect, useState } from "react";
+import { GprExtractPanel } from "@/components/gprs/GprExtractPanel";
 import { GprStatusBadge } from "@/components/gprs/GprStatusBadge";
 import { SignDialog } from "@/components/gprs/SignDialog";
 import { Button } from "@/components/ui/button";
@@ -184,6 +185,8 @@ export default function GprDetailPage({
           </CardContent>
         </Card>
       </div>
+
+      <GprExtractPanel gpr={gpr} />
 
       {/* Raw JSON */}
       <Card>

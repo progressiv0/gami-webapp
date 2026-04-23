@@ -41,6 +41,7 @@ Thumbs.db
 *.code-workspace
 
 # SQLite / local DB
+gpr-store/
 *.db
 *.db-shm
 *.db-wal

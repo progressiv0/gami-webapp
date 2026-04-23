@@ -1,5 +1,5 @@
 {
-  "@context": "https://authenticmemory.org/schema/v1",
+  "@context": "https://github.com/progressiv0/gami/schema/v1",
   "type": "gami-proof",
   "schema": "v1",
   "id": "urn:uuid:08e479ed-b9b0-402e-baf9-8ac66ed2ce52",
@@ -20,8 +20,8 @@
       "document_hash": "sha256:29428f29940361650dc6ff62f7a658f54789594f5e579f1df2f17579ca1286ad",
       "calendar": "https://alice.btc.calendar.opentimestamps.org",
       "submitted_at": "2026-04-13T00:02:24Z",
-      "ots_data": "8AhmmeduQAe8WAjwIPHYhhJzCraRne3REL8bLlFVobikAaPWGRWtpwORzI14CPAQVnZpogwaMn7DXfJBMfDqFQjxILBwG6B5QqiMe9FRA5U7NYxSlGTuwKPorERZRL/oYJLRCPAg4rQR4GE8UEeR/Ub+XO6VQhhesAp7ov7nyfVT7Tx8IjsI8QRp3DKQ8Ajv7diuqurJMQCD3+MNLvkMji4taHR0cHM6Ly9hbGljZS5idGMuY2FsZW5kYXIub3BlbnRpbWVzdGFtcHMub3Jn",
-      "upgraded": false
+      "ots_data": "8AhmmeduQAe8WAjwIPHYhhJzCraRne3REL8bLlFVobikAaPWGRWtpwORzI14CPAQVnZpogwaMn7DXfJBMfDqFQjxILBwG6B5QqiMe9FRA5U7NYxSlGTuwKPorERZRL/oYJLRCPAg4rQR4GE8UEeR/Ub+XO6VQhhesAp7ov7nyfVT7Tx8IjsI8QRp3DKQ8Ajv7diuqurJMf8Ag9/jDS75DI4uLWh0dHBzOi8vYWxpY2UuYnRjLmNhbGVuZGFyLm9wZW50aW1lc3RhbXBzLm9yZwjwIEwpgk7JLxNNy41RWKSoegaC5vZUu4jLmoymWGm1gfrTCPEgZ1kD6hkyw9bzMVhE4hvcbJrhG6XFt0gZhilH6R7IO5MI8SDsMS59ZDN4dOZn2yiYwhGqPAH76yi0FCzYWdJMJixVUAjxIGz25YKtCZ0e2DVLPPBJAl3rGaednB+u7XZgX9lEvO1TCPAgQ0kuhkT5ebT1ImG2EGnsqF8JAbd2UYnZgTXiM9DHzRkI8SDjOAh1wWsfbJRPzgLQzzTdmA1f3t3+7/DaIKnAIT3XZgjxIFlW3FAG5S+6KtQTsJt8L/KEfkYi9kWOMwsv3fm2IDLACPEgFo+7A+MVJfBBm+u0hIkKCWT8+TrruaA14fMivqdPY5oI8CBX0vugC5H1QacKVtthEBRrh7m9RYrKd4lDpVPRAbwLNwjxIAuhjEbiO/LU4gA2YnPgJ6rKiumlBSy9CVpM3ivcjk8ACPAgxmQKfBSxCzmawv2EJjmw+mMc4f7DRvJ0FPNJPk6d/hII8VkBAAAAAbYloJMl58nIZ+2jK3fKlEgph4VpoAnamACuzJpKF9ZLAAAAAAD+////AqMxAQAAAAAAFgAUleN364mtGn0GGkhRRoXYoMZ0GnwAAAAAAAAAACJqIPAEq2oOAAgI8CB92ycmd3js7AL8h67qP+Ri1S28EYIMMbpNvxnpLMzn+QgI8SBJsuGWhmKZTNP0cj3Yq3Fi8c0xcDT1Rogy3DFU2EA1OwgI8CBBldeoD0H2ojyFwJFi6qVvBV1iU/SlfVevARpR1yU8RggI8CAigvNxrY4cdTMfkqVueqx8fTKCzS/ULotjEnnl5r9wZQgI8CDKwkx8KG0KfeshlQqjv8MHOshX7YBRmwhs61cwdgiYTggI8CBFPErQvpSLOXi6wwP/HKeDoOdNl6FxO4gDSJ7JmswXywgI8SDaivPrnyejT3//Hc9q4GtF6QT9hbf8U0bmjQwmteB7ywgI8SC5yJ1ZueUv/eRqf7PMw/4VLcwf8Q2LOQ+pXntmepUFZggI8SDehNDdpnohYcSt/X3omTr9r0e4tmw4rxGwAyS2N+fIrAgI8SC6uY1FgJpNp8NZFBiAuGi6AlNX3JWDF+X/QJZAqLnakQgI8SDLw2m1qMJKgnGnzPL31AHVfIFheryuc5oQiJfe8FF+vQgI8CAtmjz8c3htupdTIeCr/BOjLbi8kfimOBMg5LJROPrMtQgIAAWIlg1z1xkBA67VOQ==",
+      "upgraded": true
     }
   },
   "parent": null
